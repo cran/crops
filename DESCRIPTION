@@ -1,8 +1,8 @@
 Package: crops
 Type: Package
 Title: Changepoints for a Range of Penalties (CROPS)
-Version: 1.0.3
-Date: 2022-08-05
+Version: 1.0.4
+Date: 2026-09-04
 Maintainer: Daniel Grose <dan.grose@lancaster.ac.uk>
 Authors@R: c(person("Daniel", "Grose", role = c("aut", "cre"),email = "dan.grose@lancaster.ac.uk"),
              person("Paul", "Fearnhead", role = "aut",email = "p.fearnhead@lancaster.ac.uk"),
@@ -13,11 +13,11 @@ Imports: sets, reshape, tidyverse, memoise, ggplot2, magrittr, methods,
         cowplot, tibble, Rdpack
 Suggests: fpop, pacman
 RdMacros: Rdpack
-RoxygenNote: 7.1.2
+Config/roxygen2/version: 8.1.0
 NeedsCompilation: no
-Packaged: 2022-08-05 13:55:40 UTC; grosedj
+Packaged: 2026-09-04 12:45:09 UTC; grosedj1
 Author: Daniel Grose [aut, cre],
   Paul Fearnhead [aut],
   Idris Eckley [ctb]
 Repository: CRAN
-Date/Publication: 2022-08-05 17:10:01 UTC
+Date/Publication: 2026-09-04 13:50:01 UTC

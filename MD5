@@ -1,11 +1,11 @@
-af1eb73e076bfaf9df5fddc01385eb0a *DESCRIPTION
+0558bbac541d98c3fd39f3f3986f8cb2 *DESCRIPTION
 b83985fe85b4928f549ba109e6c88961 *NAMESPACE
-8fbe07fe3d5ddd97f967e1e4f716f843 *R/crops.R
+08b6699863e5ab13c17fda1ec79a694e *R/crops.R
 692072dbafb0c753d2d09f00bfd789e4 *R/crops.class.R
 68d52c3e3138a0cc1cd99c1c779c24c9 *R/utils.R
-3fa4f1dba8866ffbc6065bc63995a95c *build/partial.rdb
+2ce0ee36664d82f0353557f95f699484 *build/partial.rdb
 cbd1e41dd909e74acd4d079c3c4d8355 *inst/REFERENCES.bib
-d9c45b3a8df445f17327e1bbd224ad9e *man/crops.Rd
+4cbfb70528edb87a007a55b3d317bad7 *man/crops.Rd
 8aac763c2e351fd21a94e61c29e16156 *man/plot-methods.Rd
 a75b841df6362731928ea7aefd97d2fd *man/print-methods.Rd
 a642d942f7210f168d7e278113377c60 *man/segmentations-methods.Rd
